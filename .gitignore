@@ -1,0 +1,11 @@
+.vscode/
+Resources/
+bin/
+obj/
+Image/
+Properties/
+*.dll
+*.config
+*.csproj
+*.o
+*test
